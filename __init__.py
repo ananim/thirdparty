@@ -6,7 +6,8 @@ MODULES = (
     'django',
     'python-simpledb',
     'beautifulsoup',
-    'facebook-python-sdk',
+
+    'renames', # not really a module, more like a patches/fixes place
 )
 
 thirdparty_root = os.path.realpath(os.path.dirname(__file__))
