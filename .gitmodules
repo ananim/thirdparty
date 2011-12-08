@@ -1,0 +1,18 @@
+[submodule "python-sdk"]
+	path = python-sdk
+	url = git@github.com:ananim/python-sdk.git
+[submodule "facebook-python-sdk"]
+	path = facebook-python-sdk
+	url = git@github.com:ananim/python-sdk.git
+[submodule "django"]
+	path = django
+	url = git@github.com:ananim/django.git
+[submodule "beautifulsoup"]
+	path = beautifulsoup
+	url = git@github.com:ananim/beautifulsoup.git
+[submodule "boto"]
+	path = boto
+	url = git@github.com:ananim/boto.git
+[submodule "python-simpledb"]
+	path = python-simpledb
+	url = git@github.com:ananim/python-simpledb.git
