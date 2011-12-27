@@ -18,7 +18,7 @@
 	url = git@github.com:ananim/python-simpledb.git
 [submodule "django_compressor"]
 	path = django_compressor
-	url = https://github.com/jezdez/django_compressor.git
+	url = https://github.com/ananim/django_compressor.git
 [submodule "httplib2"]
 	path = httplib2
 	url = https://github.com/uggedal/httplib2.git
