@@ -6,6 +6,7 @@ MODULES = (
     'django',
     'python-simpledb',
     'beautifulsoup',
+    'django_compressor',
 
     'renames', # not really a module, more like a patches/fixes place
 )

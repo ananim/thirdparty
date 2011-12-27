@@ -16,3 +16,6 @@
 [submodule "python-simpledb"]
 	path = python-simpledb
 	url = git@github.com:ananim/python-simpledb.git
+[submodule "django_compressor"]
+	path = django_compressor
+	url = https://github.com/jezdez/django_compressor.git
