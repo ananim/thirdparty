@@ -25,3 +25,9 @@
 [submodule "django-appconf"]
 	path = django-appconf
 	url = https://github.com/jezdez/django-appconf.git
+[submodule "django-nose"]
+	path = django-nose
+	url = git@github.com:ananim/django-nose.git
+[submodule "python-nose"]
+	path = python-nose
+	url = git@github.com:ananim/python-nose.git

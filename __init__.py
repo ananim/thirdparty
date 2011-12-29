@@ -9,6 +9,8 @@ MODULES = (
     'django_compressor',
     'django-appconf',
     'httplib2',
+    'python-nose',
+    'django-nose',
 
     'renames', # not really a module, more like a patches/fixes place
 )
