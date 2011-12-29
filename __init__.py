@@ -4,13 +4,13 @@ import sys
 MODULES = (
     'boto',
     'django',
-    'python-simpledb',
     'beautifulsoup',
     'django_compressor',
     'django-appconf',
     'httplib2',
     'python-nose',
     'django-nose',
+    'mongo-python-driver',
 
     'renames', # not really a module, more like a patches/fixes place
 )

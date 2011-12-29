@@ -13,9 +13,6 @@
 [submodule "boto"]
 	path = boto
 	url = git@github.com:ananim/boto.git
-[submodule "python-simpledb"]
-	path = python-simpledb
-	url = git@github.com:ananim/python-simpledb.git
 [submodule "django_compressor"]
 	path = django_compressor
 	url = https://github.com/ananim/django_compressor.git
@@ -31,3 +28,6 @@
 [submodule "python-nose"]
 	path = python-nose
 	url = git@github.com:ananim/python-nose.git
+[submodule "mongo-python-driver"]
+	path = mongo-python-driver
+	url = git@github.com:ananim/mongo-python-driver.git
