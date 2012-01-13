@@ -11,6 +11,7 @@ MODULES = (
     'python-nose',
     'django-nose',
     'mongo-python-driver',
+    'mongoengine',
 
     'renames', # not really a module, more like a patches/fixes place
 )

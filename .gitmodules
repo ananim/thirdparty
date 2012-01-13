@@ -31,3 +31,6 @@
 [submodule "mongo-python-driver"]
 	path = mongo-python-driver
 	url = git@github.com:ananim/mongo-python-driver.git
+[submodule "mongoengine"]
+	path = mongoengine
+	url = git@github.com:ananim/mongoengine.git
