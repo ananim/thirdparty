@@ -34,3 +34,6 @@
 [submodule "mongoengine"]
 	path = mongoengine
 	url = git@github.com:ananim/mongoengine.git
+[submodule "python-coverage"]
+	path = python-coverage
+	url = git@github.com:ananim/python-coverage.git

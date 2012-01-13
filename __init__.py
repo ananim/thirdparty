@@ -10,6 +10,7 @@ MODULES = (
     'httplib2',
     'python-nose',
     'django-nose',
+    'python-coverage',
     'mongo-python-driver',
     'mongoengine',
 
